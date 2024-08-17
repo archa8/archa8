@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archa8" alt="archa8" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/archa8/portfolio)
+- 🔭 I’m currently working on [my portfolio](https://archa8.github.io/portfolio/)
 
 - 🌱 I’m currently learning **React.js**
 
