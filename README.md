@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- ⚡ Fun fact **I am a musician**
+- ⚡ Fun fact: **I am an avid musicophile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
