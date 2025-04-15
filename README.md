@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://archa8.github.io/portfolio/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend Development**
 
 - ⚡ Fun fact: **I am an avid musicophile**
 
